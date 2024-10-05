@@ -25,13 +25,13 @@ Solidifying Concepts and Scope
 ## Run 2
 Asset Making & Early Prototyping (Placeholder Assets)
 
-|     | Narrative | Art                                          | Code                             |
-| --- | --------- | -------------------------------------------- | -------------------------------- |
-| 7   |           |                                              | - Early Prototype in Unity       |
-| 8   |           |                                              |                                  |
-| 9   |           |                                              | - Implementation of New Features |
-| 10  |           |                                              |                                  |
-| 11  |           | - Finalization of Concept Art for Characters |                                  |
+|     | Narrative | Art | Code                             |
+| --- | --------- | --- | -------------------------------- |
+| 7   |           |     | - Early Prototype in Unity       |
+| 8   |           |     |                                  |
+| 9   |           |     | - Implementation of New Features |
+| 10  |           |     |                                  |
+| 11  |           |     |                                  |
 
 ## Run 3
 Prototyping & Adding Features
