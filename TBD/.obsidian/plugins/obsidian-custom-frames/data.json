@@ -1,0 +1,41 @@
+{
+  "frames": [
+    {
+      "url": "https://music.youtube.com",
+      "displayName": "YT Music",
+      "icon": "music",
+      "hideOnMobile": true,
+      "addRibbonIcon": true,
+      "openInCenter": false,
+      "zoomLevel": 0.7,
+      "forceIframe": false,
+      "customCss": "",
+      "customJs": ""
+    },
+    {
+      "url": "https://irregdevs.codecks.io",
+      "displayName": "IrregDevs_Codex",
+      "icon": "joystick",
+      "hideOnMobile": true,
+      "addRibbonIcon": true,
+      "openInCenter": false,
+      "zoomLevel": 0.7,
+      "forceIframe": false,
+      "customCss": "",
+      "customJs": ""
+    },
+    {
+      "url": "www.google.com",
+      "displayName": "Google",
+      "icon": "chrome",
+      "hideOnMobile": true,
+      "addRibbonIcon": true,
+      "openInCenter": false,
+      "zoomLevel": 0.7,
+      "forceIframe": false,
+      "customCss": "",
+      "customJs": ""
+    }
+  ],
+  "padding": 5
+}
